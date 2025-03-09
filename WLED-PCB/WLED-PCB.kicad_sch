@@ -4071,7 +4071,7 @@
 	(text_box "Power"
 		(exclude_from_sim no)
 		(at 132.08 12.7 0)
-		(size 22.86 6.35)
+		(size 22.86 5.08)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
